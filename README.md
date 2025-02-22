@@ -1,4 +1,4 @@
-Financial Time Series Analysis & Stock Prediction Platform Using Machine Learning
+**Financial Time Series Analysis & Stock Prediction Platform Using Machine Learning**
 
 Objective:
 To develop an interactive stock analysis and prediction platform using Streamlit, machine learning, and financial indicators, enabling users to analyze trends, compute CAPM metrics, and forecast stock prices for informed investment decisions.
@@ -25,12 +25,10 @@ The platform provides key financial insights, including Capital Asset Pricing Mo
 
 ## 🛠 Skills
 Financial Data Extraction & Analysis, Machine Learning & Time Series Forecasting, Statistical & Financial Analysis.
-## 🚀 About Me
-Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
 
+## 🚀 About Me
+Passionate data analyst, always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
-
-
